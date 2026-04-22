@@ -1,0 +1,26 @@
+# Файлы данных (могут содержать личные записи)
+weather_data.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.pyc
+
+# Виртуальное окружение
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+
+# API ключи (если используется API)
+config.py
